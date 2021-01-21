@@ -2,3 +2,7 @@ ion-toolbar{
     --background:var(--ion-color-danger);
     --color:var(--ion-color-danger-contrast)
 }
+.submit{
+    --background:var(--ion-color-danger);
+    --color:var(--ion-color-danger-contrast)
+}
